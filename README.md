@@ -1,4 +1,8 @@
 # Super Store Sales Dashboard
+![image](https://github.com/user-attachments/assets/de965719-3ae1-4928-9a07-afa32c0d3e82) 
+![image](https://github.com/user-attachments/assets/4c6cc700-808a-4719-9ff8-f977e16da0f7)
+
+
 
 This repository contains a **Power BI Dashboard** that provides insightful visualizations for analyzing sales performance, delivery times, and customer segmentation across different regions. The dashboard is built to explore key metrics, trends, and regional performance for better decision-making.
 
